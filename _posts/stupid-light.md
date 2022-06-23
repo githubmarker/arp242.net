@@ -38,7 +38,7 @@ stupid light][sqlite] in some use cases.
 
 Including a huge library may be overkill for what you need from it; you can
 perhaps just copy that one function out of there, or reimplement your own if
-it's simple enough. But this only a good idea if you can do it *well* and ensure
+it's simple enough. But this is only a good idea if you can do it *well* and ensure
 it's actually correct (are you *sure* all edge cases are handled correctly?)
 Otherwise it just becomes stupid light.
 
